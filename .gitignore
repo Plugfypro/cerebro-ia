@@ -1,0 +1,7 @@
+cerebro-output/graphify-out/
+mis-proyectos/
+node_modules/
+*.log
+.env
+__pycache__/
+*.pyc
