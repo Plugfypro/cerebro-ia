@@ -1,7 +1,23 @@
+# Resultados del cerebro (se generan localmente, no subir)
 cerebro-output/graphify-out/
-mis-proyectos/
+
+# Tus archivos personales/empresariales (privados, no subir nunca a GitHub)
+mis-proyectos/*
+!mis-proyectos/COLOCA-TUS-ARCHIVOS-AQUI.md
+
+# Node y Python
 node_modules/
-*.log
-.env
 __pycache__/
 *.pyc
+*.pyo
+
+# Logs y temporales
+*.log
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
